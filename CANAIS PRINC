@@ -1,16 +1,9 @@
 #EXTM3U
 
 ---GLOBO---
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA  FHD (SALVADOR)
-http://grtsvk.life:8080/leotb0001/888777555/71564
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA HD (SALVADOR)
-http://grtsvk.life:8080/leotb0001/888777555/71565
+
 #EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",Globo BRASILIA HD
 http://grtsvk.life:8080/leotb0001/888777555/71490
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO INTERNACIONAL HD
-http://grtsvk.life:8080/leotb0001/888777555/71493
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="NOTICIAS ",GLOBO NEWS HD
-http://grtsvk.life:8080/leotb0001/888777555/71345
 #EXTINF:-1 tvg-id="Globo Nordeste HD [Alter]" tvg-name="GLOBO NORDESTE" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO NORDESTE
 http://grtsvk.life:8080/leotb0001/888777555/71207
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO RJ FHD
@@ -21,10 +14,6 @@ http://grtsvk.life:8080/leotb0001/888777555/71494
 http://grtsvk.life:8080/leotb0001/888777555/71496
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD¹" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO SP HD¹
 http://grtsvk.life:8080/leotb0001/888777555/71573
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO VITORIA ES. FHD
-http://grtsvk.life:8080/leotb0001/888777555/71492
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO VITORIA HD ES
-http://grtsvk.life:8080/leotb0001/888777555/71537
 #EXTINF:-1 tvg-id="" tvg-name="GLOGO SERGIPE" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO SERGIPE
 http://grtsvk.life:8080/leotb0001/888777555/71495
 
@@ -79,82 +68,30 @@ http://grtsvk.life:8080/leotb0001/888777555/71489
 http://grtsvk.life:8080/leotb0001/888777555/71202
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD BAHIA HD
 http://grtsvk.life:8080/leotb0001/888777555/71046
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BH MINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD BH MINAS HD
-http://grtsvk.life:8080/leotb0001/888777555/71447
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD BRASILIA HD
 http://grtsvk.life:8080/leotb0001/888777555/71045
 #EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record Brasilia HD
 http://grtsvk.life:8080/leotb0001/888777555/71498
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD GOIAS HD
-http://grtsvk.life:8080/leotb0001/888777555/71044
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN - BAHIA" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD ITAPOAN - BAHIA
-http://grtsvk.life:8080/leotb0001/888777555/71544
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD MANAUS HD
-http://grtsvk.life:8080/leotb0001/888777555/71047
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD MANAUS HD
-http://grtsvk.life:8080/leotb0001/888777555/71542
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD MG HD
-http://grtsvk.life:8080/leotb0001/888777555/71039
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD MINAS HD
-http://grtsvk.life:8080/leotb0001/888777555/71043
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS ",RECORD NEWS HD
 http://grtsvk.life:8080/leotb0001/888777555/71429
 #EXTINF:-1 tvg-id="" tvg-name="RECORD PARA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD PARA HD
 http://grtsvk.life:8080/leotb0001/888777555/71041
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD RIO HD
-http://grtsvk.life:8080/leotb0001/888777555/71040
 #EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record RJ HD
 http://grtsvk.life:8080/leotb0001/888777555/71506
-#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record RS HD
-http://grtsvk.life:8080/leotb0001/888777555/71500
-#EXTINF:-1 tvg-id="" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record Sao Jose Rio Preto HD
-http://grtsvk.life:8080/leotb0001/888777555/71501
-#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - Tv Atalaia HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record Sergipe - Tv Atalaia HD
-http://grtsvk.life:8080/leotb0001/888777555/71502
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD SP HD
 http://grtsvk.life:8080/leotb0001/888777555/71038
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Belem HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record TV Belem HD
-http://grtsvk.life:8080/leotb0001/888777555/71503
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD TV GOIANIA HD
-http://grtsvk.life:8080/leotb0001/888777555/71378
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV LITORAL HD Santos" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD TV LITORAL HD Santos
-http://grtsvk.life:8080/leotb0001/888777555/71504
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",Record TV Minas HD
-http://grtsvk.life:8080/leotb0001/888777555/71505
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD TV PARANA HD
-http://grtsvk.life:8080/leotb0001/888777555/71529
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD TV SANTA CATARINA HD
-http://grtsvk.life:8080/leotb0001/888777555/71524
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="SBT GLOBO RECORD",RECORD TV SD
-http://grtsvk.life:8080/leotb0001/888777555/71253
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",REDE BRASIL SD
 http://grtsvk.life:8080/leotb0001/888777555/71255
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV ES HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",REDE TV ES HD
 http://grtsvk.life:8080/leotb0001/888777555/71553
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",REDE TV HD
 http://grtsvk.life:8080/leotb0001/888777555/71379
-#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT BSB HD
-http://grtsvk.life:8080/leotb0001/888777555/71507
-#EXTINF:-1 tvg-id="" tvg-name="SBT ES FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT ES FHD
-http://grtsvk.life:8080/leotb0001/888777555/71499
-#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT ES HD
-http://grtsvk.life:8080/leotb0001/888777555/71518
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT PARANA HD
-http://grtsvk.life:8080/leotb0001/888777555/71528
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT RJ FHD
 http://grtsvk.life:8080/leotb0001/888777555/71541
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT RJ HD
-http://grtsvk.life:8080/leotb0001/888777555/71538
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT RS HD
-http://grtsvk.life:8080/leotb0001/888777555/71508
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT SD
-http://grtsvk.life:8080/leotb0001/888777555/71259
 #EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT Sergipe -Tv Aperiper HD
 http://grtsvk.life:8080/leotb0001/888777555/71509
 #EXTINF:-1 tvg-id="" tvg-name="Sbt SP HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="ABERTOS",Sbt SP HD
 http://grtsvk.life:8080/leotb0001/888777555/71510
-#EXTINF:-1 tvg-id="" tvg-name="SBT-MG-Tv Alterosa FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT GLOBO RECORD",SBT-MG-Tv Alterosa FHD
-http://grtsvk.life:8080/leotb0001/888777555/71536
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://lh3.googleusercontent.com/-1Zg8V5Pfxd4/YB1Gnnx4hEI/AAAAAAAAJ5o/Yct-RuSsxvwjmygNXX0lpz46Phq469KmQCLcBGAsYHQ/Terra%2BViva.png" group-title="ABERTOS",TERRA VIVA SD
 http://grtsvk.life:8080/leotb0001/888777555/71276
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="ABERTOS",TV BRASIL HD

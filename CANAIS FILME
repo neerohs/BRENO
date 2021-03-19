@@ -233,8 +233,6 @@ http://dns.fastuhd.online/live/minhatv/800900500/173135.m3u8
 http://dns.fastuhd.online/live/minhatv/800900500/173136.m3u8
 #EXTINF:-1 type="stream" tvg-id="SPACE SD" tvg-logo="http://dns.jserverstv.ml:80/images/4df8a0d021b4e596a81177d4f78d5f65.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
 http://dns.fastuhd.online/live/minhatv/800900500/173137.m3u8
-#EXTINF:-1 type="stream" tvg-id="SPORTV SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/bea99f2c35beab30bdbc493660e3fe11.png" group-title="CANAIS | ESPORTES",SPORTV SD
-http://dns.fastuhd.online/live/minhatv/800900500/175515.m3u8
 #EXTINF:-1 type="stream" tvg-id="STAR HD" tvg-logo="http://dns.jserverstv.ml:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="CANAIS | FILMES E SÉRIES",STAR HD
 http://dns.fastuhd.online/live/minhatv/800900500/173120.m3u8
 #EXTINF:-1 type="stream" tvg-id="STAR LIFE HD" tvg-logo="http://dns.jserverstv.ml:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE HD

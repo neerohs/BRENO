@@ -165,14 +165,6 @@ http://dns.fastuhd.online/live/minhatv/800900500/173934.m3u8
 http://dns.fastuhd.online/live/minhatv/800900500/173935.m3u8
 #EXTINF:-1 type="stream" tvg-id="ARG: Encuentro" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: Encuentro
 http://dns.fastuhd.online/live/minhatv/800900500/173936.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: ESPN" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: ESPN
-http://dns.fastuhd.online/live/minhatv/800900500/173937.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: ESPN 2" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: ESPN 2
-http://dns.fastuhd.online/live/minhatv/800900500/173938.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: ESPN 3" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: ESPN 3
-http://dns.fastuhd.online/live/minhatv/800900500/173939.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: ESPN+ HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: ESPN+ HD
-http://dns.fastuhd.online/live/minhatv/800900500/173940.m3u8
 #EXTINF:-1 type="stream" tvg-id="ARG: Europa Europa" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: Europa Europa
 http://dns.fastuhd.online/live/minhatv/800900500/173941.m3u8
 #EXTINF:-1 type="stream" tvg-id="ARG: EUROPA HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: EUROPA HD
@@ -454,18 +446,6 @@ http://dns.fastuhd.online/live/minhatv/800900500/173258.m3u8
 http://dns.fastuhd.online/live/minhatv/800900500/173469.m3u8
 #EXTINF:-1 type="stream" tvg-id="ComedyCentral" tvg-logo="https://lh3.googleusercontent.com/-tLAPefMhkkA/YB2IXaL4dJI/AAAAAAAAJ8M/I1TbJkFTbCkv_OjoToFLsP3UtPHAqeSUACLcBGAsYHQ/ComedyCentral.png" group-title="CANAIS | VARIEDADES",ComedyCentral
 http://dns.fastuhd.online/live/minhatv/800900500/173470.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL 1" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL 1
-http://dns.fastuhd.online/live/minhatv/800900500/175410.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL 2" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL 2
-http://dns.fastuhd.online/live/minhatv/800900500/175411.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL 3" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL 3
-http://dns.fastuhd.online/live/minhatv/800900500/175412.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL 4" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL 4
-http://dns.fastuhd.online/live/minhatv/800900500/175413.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV SD JOGO 1" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV SD JOGO 1
-http://dns.fastuhd.online/live/minhatv/800900500/175414.m3u8
-#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV SD JOGO 2" tvg-logo="http://dns.jserverstv.ml:80/images/7d32a1af90854812d0c300b28da817b0.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV SD JOGO 2
-http://dns.fastuhd.online/live/minhatv/800900500/175415.m3u8
 #EXTINF:-1 type="stream" tvg-id="Contos Da Crypta" tvg-logo="http://dns.jserverstv.ml:80/images/5348a0874fa5d0809dd68e6ca028be63.png" group-title="CANAIS | 24HS",Contos Da Crypta
 http://dns.fastuhd.online/live/minhatv/800900500/175278.m3u8
 #EXTINF:-1 type="stream" tvg-id="Contos Da Masha" tvg-logo="http://dns.jserverstv.ml:80/images/f09cd7e5973f71e80566edeff275a911.png" group-title="CANAIS | 24HS",Contos Da Masha
@@ -954,62 +934,6 @@ http://dns.fastuhd.online/live/minhatv/800900500/172756.m3u8
 http://dns.fastuhd.online/live/minhatv/800900500/173497.m3u8
 #EXTINF:-1 type="stream" tvg-id="Power Rangers" tvg-logo="https://3.bp.blogspot.com/-HdQzTNrCWkk/XouWGhd7EsI/AAAAAAAACoE/vVUd7lT6jI8FRFM8E7yJzDmxWa5Vyfa5ACK4BGAYYCw/s320/kwkw6tjh.png" group-title="CANAIS | SERIES 24HS",Power Rangers
 http://dns.fastuhd.online/live/minhatv/800900500/172757.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 2" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2
-http://dns.fastuhd.online/live/minhatv/800900500/173080.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 2" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2
-http://dns.fastuhd.online/live/minhatv/800900500/173081.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 2" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2
-http://dns.fastuhd.online/live/minhatv/800900500/173082.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 2 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 2 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173083.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 3" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3
-http://dns.fastuhd.online/live/minhatv/800900500/173084.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 3" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3
-http://dns.fastuhd.online/live/minhatv/800900500/173085.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 3" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3
-http://dns.fastuhd.online/live/minhatv/800900500/173086.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 3 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 3 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173087.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 4" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4
-http://dns.fastuhd.online/live/minhatv/800900500/173088.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 4" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4
-http://dns.fastuhd.online/live/minhatv/800900500/173089.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 4" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 4
-http://dns.fastuhd.online/live/minhatv/800900500/173090.m3u8
-#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",Premiere 4 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173091.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 5" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5
-http://dns.fastuhd.online/live/minhatv/800900500/173092.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 5" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5
-http://dns.fastuhd.online/live/minhatv/800900500/173093.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 5" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5
-http://dns.fastuhd.online/live/minhatv/800900500/173094.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 5 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 5 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173095.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 6" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6
-http://dns.fastuhd.online/live/minhatv/800900500/173096.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 6" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6
-http://dns.fastuhd.online/live/minhatv/800900500/173097.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 6 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 6 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173098.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 7" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 7
-http://dns.fastuhd.online/live/minhatv/800900500/173099.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 7" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 7
-http://dns.fastuhd.online/live/minhatv/800900500/173100.m3u8
-#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",Premiere 7 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173101.m3u8
-#EXTINF:-1 type="stream" tvg-id="Premiere 8" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",Premiere 8
-http://dns.fastuhd.online/live/minhatv/800900500/173102.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE 9" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE 9
-http://dns.fastuhd.online/live/minhatv/800900500/173103.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE CLUBES FHD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173104.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE CLUBES HD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES HD
-http://dns.fastuhd.online/live/minhatv/800900500/173105.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE CLUBES SD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES SD
-http://dns.fastuhd.online/live/minhatv/800900500/173106.m3u8
-#EXTINF:-1 type="stream" tvg-id="PREMIERE CLUBES SD" tvg-logo="http://dns.jserverstv.ml:80/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS | ESP PREMIERE",PREMIERE CLUBES SD
-http://dns.fastuhd.online/live/minhatv/800900500/173107.m3u8
 #EXTINF:-1 type="stream" tvg-id="Prime Box Brazil" tvg-logo="" group-title="CANAIS | 24HS SHOWS",Prime Box Brazil
 http://dns.fastuhd.online/live/minhatv/800900500/172691.m3u8
 #EXTINF:-1 type="stream" tvg-id="Projeto Zeta" tvg-logo="http://dns.jserverstv.ml:80/images/5e25524e77e02420a61f97803fb3127e.png" group-title="CANAIS | 24HS",Projeto Zeta

@@ -1,0 +1,23 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="stream" tvg-id="BBB 01" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01
+http://dns.fastuhd.online/live/minhatv/800900500/174025.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB 01¹" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01¹
+http://dns.fastuhd.online/live/minhatv/800900500/174026.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB 02" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 02
+http://dns.fastuhd.online/live/minhatv/800900500/174027.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB 03" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 03
+http://dns.fastuhd.online/live/minhatv/800900500/174028.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB 04" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 04
+http://dns.fastuhd.online/live/minhatv/800900500/174029.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB 2021 MOSAICO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 2021 MOSAICO
+http://dns.fastuhd.online/live/minhatv/800900500/174030.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB CONFESSIONARIO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB CONFESSIONARIO
+http://dns.fastuhd.online/live/minhatv/800900500/174031.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB COZINHA VIP XEPA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
+http://dns.fastuhd.online/live/minhatv/800900500/174032.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB PISCINA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB PISCINA
+http://dns.fastuhd.online/live/minhatv/800900500/174033.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB QUARTO COLORIDO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB QUARTO COLORIDO
+http://dns.fastuhd.online/live/minhatv/800900500/174034.m3u8
+#EXTINF:-1 type="stream" tvg-id="BBB SALA DE ESTAR" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB SALA DE ESTAR
+http://dns.fastuhd.online/live/minhatv/800900500/174035.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U size="Big"
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",CANAIS
-#EXTBG:https://i.imgur.com/BZf4VGJ.jpg
+#EXTBG:https://i.imgur.com/ebOdhmF.jpg
 http://painel.fastuhdtv.xyz/ssiptv/get/henzo05tb/63692808/list_lives/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
-#EXTBG:https://i.imgur.com/vnPmfhz.png
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png", 
+#EXTBG:https://i.imgur.com/KFqfTUU.jpg
 http://painel.fastuhdtv.xyz/ssiptv/get/henzo05tb/63692808/movie_categories/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
-#EXTBG:https://i.imgur.com/vJD9S1U.png
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png", 
+#EXTBG:https://i.imgur.com/e6gy60J.jpg
 http://painel.fastuhdtv.xyz/ssiptv/get/henzo05tb/63692808/serie_categories/
-#EXTINF:0 type="playlist" tvg-logo="ttps://i.imgur.com/rrwBZuj.png",24 HORAS
-#EXTBG:https://i.imgur.com/ow2zuRJ.png
+#EXTINF:0 type="playlist" tvg-logo="ttps://i.imgur.com/rrwBZuj.png", 
+#EXTBG:https://i.imgur.com/eR7ZvJl.jpg
 http://painel.fastuhdtv.xyz/ssiptv/get/henzo05tb/63692808/list_created_channels/

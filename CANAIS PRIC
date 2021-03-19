@@ -1463,3 +1463,92 @@ http://dns.fastuhd.online/live/minhatv/800900500/140487.m3u8
 http://dns.fastuhd.online/live/minhatv/800900500/175408.m3u8
 #EXTINF:-1 type="stream" tvg-id="Yu Yu Hakusho" tvg-logo="http://dns.jserverstv.ml:80/images/5fa59c427b57af7b96ec1414dfb0d0ae.png" group-title="CANAIS | 24HS",Yu Yu Hakusho
 http://dns.fastuhd.online/live/minhatv/800900500/175409.m3u8
+#EXTM3U size="Medium"
+#EXTINF:-1 type="stream" tvg-id="BABY TV FHD" tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL",BABY TV FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173594.m3u8
+#EXTINF:-1 type="stream" tvg-id="BABY TV HD" tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL",BABY TV HD
+http://dns.fastuhd.online/live/minhatv/800900500/173629.m3u8
+#EXTINF:-1 type="stream" tvg-id="BABY TV SD" tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL",BABY TV SD
+http://dns.fastuhd.online/live/minhatv/800900500/173630.m3u8
+#EXTINF:-1 type="stream" tvg-id="BabyTV" tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL",BabyTV
+http://dns.fastuhd.online/live/minhatv/800900500/173595.m3u8
+#EXTINF:-1 type="stream" tvg-id="BOOMERANG FHD" tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL",BOOMERANG FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173597.m3u8
+#EXTINF:-1 type="stream" tvg-id="BOOMERANG HD" tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL",BOOMERANG HD
+http://dns.fastuhd.online/live/minhatv/800900500/173598.m3u8
+#EXTINF:-1 type="stream" tvg-id="BOOMERANG SD" tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL",BOOMERANG SD
+http://dns.fastuhd.online/live/minhatv/800900500/173596.m3u8
+#EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK FHD" tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173599.m3u8
+#EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK HD" tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+http://dns.fastuhd.online/live/minhatv/800900500/173600.m3u8
+#EXTINF:-1 type="stream" tvg-id="CARTOON NETWORK SD" tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
+http://dns.fastuhd.online/live/minhatv/800900500/173631.m3u8
+#EXTINF:-1 type="stream" tvg-id="CartoonNetwork" tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL",CartoonNetwork
+http://dns.fastuhd.online/live/minhatv/800900500/173601.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY KIDS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/08fc365c4c79445df65f00b6146ca176.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173602.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY KIDS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/08fc365c4c79445df65f00b6146ca176.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173603.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISCOVERY KIDS HD" tvg-logo="http://dns.jserverstv.ml:80/images/08fc365c4c79445df65f00b6146ca176.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
+http://dns.fastuhd.online/live/minhatv/800900500/173604.m3u8
+#EXTINF:-1 type="stream" tvg-id="DiscoveryKids" tvg-logo="http://dns.jserverstv.ml:80/images/08fc365c4c79445df65f00b6146ca176.png" group-title="CANAIS | INFANTIL",DiscoveryKids
+http://dns.fastuhd.online/live/minhatv/800900500/173605.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL FHD" tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173607.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL HD" tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://dns.fastuhd.online/live/minhatv/800900500/173608.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY CHANNEL SD" tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
+http://dns.fastuhd.online/live/minhatv/800900500/173628.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY JR FHD" tvg-logo="http://dns.jserverstv.ml:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL",DISNEY JR FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173609.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY JR HD" tvg-logo="http://dns.jserverstv.ml:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL",DISNEY JR HD
+http://dns.fastuhd.online/live/minhatv/800900500/173610.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY JR SD" tvg-logo="http://dns.jserverstv.ml:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL",DISNEY JR SD
+http://dns.fastuhd.online/live/minhatv/800900500/173606.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY XD FHD" tvg-logo="http://dns.jserverstv.ml:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL",DISNEY XD FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173611.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY XD HD" tvg-logo="http://dns.jserverstv.ml:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL",DISNEY XD HD
+http://dns.fastuhd.online/live/minhatv/800900500/173633.m3u8
+#EXTINF:-1 type="stream" tvg-id="DISNEY XD SD" tvg-logo="http://dns.jserverstv.ml:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL",DISNEY XD SD
+http://dns.fastuhd.online/live/minhatv/800900500/173612.m3u8
+#EXTINF:-1 type="stream" tvg-id="GLOBINHO HD" tvg-logo="http://dns.jserverstv.ml:80/images/362176f59b37674139e1ca75721f0502.png" group-title="CANAIS | INFANTIL",GLOBINHO HD
+http://dns.fastuhd.online/live/minhatv/800900500/173626.m3u8
+#EXTINF:-1 type="stream" tvg-id="GLOOB FHD" tvg-logo="http://dns.jserverstv.ml:80/images/13c63d11e38aafa42b576b451670f40d.png" group-title="CANAIS | INFANTIL",GLOOB FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173614.m3u8
+#EXTINF:-1 type="stream" tvg-id="GLOOB HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | INFANTIL",GLOOB HD
+http://dns.fastuhd.online/live/minhatv/800900500/173182.m3u8
+#EXTINF:-1 type="stream" tvg-id="GLOOB SD" tvg-logo="http://dns.jserverstv.ml:80/images/13c63d11e38aafa42b576b451670f40d.png" group-title="CANAIS | INFANTIL",GLOOB SD
+http://dns.fastuhd.online/live/minhatv/800900500/173613.m3u8
+#EXTINF:-1 type="stream" tvg-id="NATGEO KIDS HD" tvg-logo="http://dns.jserverstv.ml:80/images/de9d011583da3b55267fa5659e64fcad.png" group-title="CANAIS | INFANTIL",NATGEO KIDS HD
+http://dns.fastuhd.online/live/minhatv/800900500/173615.m3u8
+#EXTINF:-1 type="stream" tvg-id="NATGEO KIDS SD" tvg-logo="http://dns.jserverstv.ml:80/images/de9d011583da3b55267fa5659e64fcad.png" group-title="CANAIS | INFANTIL",NATGEO KIDS SD
+http://dns.fastuhd.online/live/minhatv/800900500/173616.m3u8
+#EXTINF:-1 type="stream" tvg-id="NATIONAL GEOGRAPHIC SD" tvg-logo="http://dns.jserverstv.ml:80/images/1bb570382f3c95f2a6a4b8baa6264eee.png" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD
+http://dns.fastuhd.online/live/minhatv/800900500/173455.m3u8
+#EXTINF:-1 type="stream" tvg-id="NICK JR FHD" tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL",NICK JR FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173617.m3u8
+#EXTINF:-1 type="stream" tvg-id="NICK JR HD" tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL",NICK JR HD
+http://dns.fastuhd.online/live/minhatv/800900500/173618.m3u8
+#EXTINF:-1 type="stream" tvg-id="NICK JR SD" tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL",NICK JR SD
+http://dns.fastuhd.online/live/minhatv/800900500/173619.m3u8
+#EXTINF:-1 type="stream" tvg-id="NICK JR SD" tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL",NICK JR SD
+http://dns.fastuhd.online/live/minhatv/800900500/173632.m3u8
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="http://dns.jserverstv.ml:80/images/0f82929597943068ec4a9c7f084f78b7.png" group-title="CANAIS | INFANTIL",Nickelodeon
+http://dns.fastuhd.online/live/minhatv/800900500/173620.m3u8
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="http://dns.jserverstv.ml:80/images/0f82929597943068ec4a9c7f084f78b7.png" group-title="CANAIS | INFANTIL",Nickelodeon HD
+http://dns.fastuhd.online/live/minhatv/800900500/173621.m3u8
+#EXTINF:-1 type="stream" tvg-id="Play kids SD" tvg-logo="http://dns.jserverstv.ml:80/images/40acc3f91847049d226ddfac478b7384.png" group-title="CANAIS | INFANTIL",Play kids SD
+http://dns.fastuhd.online/live/minhatv/800900500/173622.m3u8
+#EXTINF:-1 type="stream" tvg-id="TOONCAST FHD" tvg-logo="http://dns.jserverstv.ml:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST FHD
+http://dns.fastuhd.online/live/minhatv/800900500/173624.m3u8
+#EXTINF:-1 type="stream" tvg-id="TOONCAST HD" tvg-logo="http://dns.jserverstv.ml:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST HD
+http://dns.fastuhd.online/live/minhatv/800900500/173625.m3u8
+#EXTINF:-1 type="stream" tvg-id="TOONCAST SD" tvg-logo="http://dns.jserverstv.ml:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL",TOONCAST SD
+http://dns.fastuhd.online/live/minhatv/800900500/173623.m3u8
+#EXTINF:-1 type="stream" tvg-id="ZOOMOO HD" tvg-logo="http://dns.jserverstv.ml:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL",ZOOMOO HD
+http://dns.fastuhd.online/live/minhatv/800900500/173634.m3u8
+#EXTINF:-1 type="stream" tvg-id="ZOOMOO SD" tvg-logo="http://dns.jserverstv.ml:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL",ZOOMOO SD
+http://dns.fastuhd.online/live/minhatv/800900500/173627.m3u8
+#EXTINF:-1 type="stream" tvg-id="Música Infantil" tvg-logo="http://dns.jserverstv.ml:80/images/ae157d8a6b8690c1d5c3038a9de88b9f.png" group-title="CANAIS | 24HS",Música Infantil
+http://dns.fastuhd.online/live/minhatv/800900500/175340.m3u8

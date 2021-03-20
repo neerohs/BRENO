@@ -1,289 +1,84 @@
 #EXTM3U size="Medium"
---------------TELECINE
-#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION FHD" tvg-logo="http://dns.jserverstv.ml:80/images/6f8c71f40a7fa1632033551dc4c1ea27.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173354.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION HD" tvg-logo="http://dns.jserverstv.ml:80/images/6f8c71f40a7fa1632033551dc4c1ea27.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://dns.fastuhd.online/live/minhatv/800900500/173355.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE ACTION SD" tvg-logo="http://dns.jserverstv.ml:80/images/6f8c71f40a7fa1632033551dc4c1ea27.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://dns.fastuhd.online/live/minhatv/800900500/173356.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE CULT" tvg-logo="http://dns.jserverstv.ml:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT
-http://dns.fastuhd.online/live/minhatv/800900500/173357.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE CULT FHD" tvg-logo="http://dns.jserverstv.ml:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173358.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE CULT HD" tvg-logo="http://dns.jserverstv.ml:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://dns.fastuhd.online/live/minhatv/800900500/173359.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE CULT SD" tvg-logo="http://dns.jserverstv.ml:80/images/f9e4ef3e1bb0368ed29859c7f747faa0.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://dns.fastuhd.online/live/minhatv/800900500/173360.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE FUN" tvg-logo="http://dns.jserverstv.ml:80/images/27e22929e9e066bb151d12d0123e59e1.png" group-title="CANAIS | TELECINE",TELECINE FUN
-http://dns.fastuhd.online/live/minhatv/800900500/173361.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE FUN HD" tvg-logo="http://dns.jserverstv.ml:80/images/27e22929e9e066bb151d12d0123e59e1.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://dns.fastuhd.online/live/minhatv/800900500/173362.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE FUN SD" tvg-logo="http://dns.jserverstv.ml:80/images/27e22929e9e066bb151d12d0123e59e1.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://dns.fastuhd.online/live/minhatv/800900500/173363.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA FHD" tvg-logo="http://dns.jserverstv.ml:80/images/47b777bf69acf8a6bc26001db7e41666.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173364.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA HD" tvg-logo="http://dns.jserverstv.ml:80/images/47b777bf69acf8a6bc26001db7e41666.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://dns.fastuhd.online/live/minhatv/800900500/173365.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PIPOCA SD" tvg-logo="http://dns.jserverstv.ml:80/images/47b777bf69acf8a6bc26001db7e41666.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://dns.fastuhd.online/live/minhatv/800900500/173366.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM FHD" tvg-logo="http://dns.jserverstv.ml:80/images/e9f7d0b2402816ffb479daeabb0536f3.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173367.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM HD" tvg-logo="http://dns.jserverstv.ml:80/images/e9f7d0b2402816ffb479daeabb0536f3.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://dns.fastuhd.online/live/minhatv/800900500/173368.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE PREMIUM SD" tvg-logo="http://dns.jserverstv.ml:80/images/e9f7d0b2402816ffb479daeabb0536f3.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://dns.fastuhd.online/live/minhatv/800900500/173369.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH FHD" tvg-logo="http://dns.jserverstv.ml:80/images/68addba5d68b7e66613ec65c0a04abce.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173370.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH HD" tvg-logo="http://dns.jserverstv.ml:80/images/68addba5d68b7e66613ec65c0a04abce.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://dns.fastuhd.online/live/minhatv/800900500/173371.m3u8
-#EXTINF:-1 type="stream" tvg-id="TELECINE TOUCH SD" tvg-logo="http://dns.jserverstv.ml:80/images/68addba5d68b7e66613ec65c0a04abce.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://dns.fastuhd.online/live/minhatv/800900500/173372.m3u8
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",VER TUDO
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png", FILMES | FICÇAO CIENTIFICA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/27/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | TERROR
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/145/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | LANCAMENTO 2019
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/152/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | LANCAMENTOS
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/140/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | 4K
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/151/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | FAROESTE
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/150/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | CLASSICO
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/149/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | INFANTIL
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/148/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | AÇAO
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/147/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | DOCUMENTARIO
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/146/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | COMEDIA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/144/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | DRAMA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/143/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | MARVEL
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/158/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | GUERRA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/142/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | BIBLICO
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/139/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | ROMANCE
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/138/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | CINEMA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/135/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | COLETÂNEA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/153/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | ADULTOS
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/173/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | NACIONAIS
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/175/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | FAMILIA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/182/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | FANTASIA
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/183/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",FILMES | LEGENDADOS 
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/184/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",Karaoke
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_movies/186/
 
------------HBO
 
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO 2 HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO 2 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173963.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO FAMILY" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO FAMILY
-http://dns.fastuhd.online/live/minhatv/800900500/173964.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO HD
-http://dns.fastuhd.online/live/minhatv/800900500/173965.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO MUNDI HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO MUNDI HD
-http://dns.fastuhd.online/live/minhatv/800900500/173966.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO PLUS HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO PLUS HD
-http://dns.fastuhd.online/live/minhatv/800900500/173967.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO POP HD" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO POP HD
-http://dns.fastuhd.online/live/minhatv/800900500/173968.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO SIGNATURE" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO SIGNATURE
-http://dns.fastuhd.online/live/minhatv/800900500/173969.m3u8
-#EXTINF:-1 type="stream" tvg-id="ARG: HBO XTREME" tvg-logo="" group-title="CANAIS | ARGENTINA",ARG: HBO XTREME
-http://dns.fastuhd.online/live/minhatv/800900500/173970.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="CANAIS | HBO",HBO
-http://dns.fastuhd.online/live/minhatv/800900500/173329.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="http://dns.jserverstv.ml:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CANAIS | HBO",HBO
-http://dns.fastuhd.online/live/minhatv/800900500/173330.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="http://dns.jserverstv.ml:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CANAIS | HBO",HBO
-http://dns.fastuhd.online/live/minhatv/800900500/173331.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="http://dns.jserverstv.ml:80/images/60a8df3b2d0e52148a208abc0c58773a.png" group-title="CANAIS | HBO",HBO 2
-http://dns.fastuhd.online/live/minhatv/800900500/173332.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="http://dns.jserverstv.ml:80/images/60a8df3b2d0e52148a208abc0c58773a.png" group-title="CANAIS | HBO",HBO 2
-http://dns.fastuhd.online/live/minhatv/800900500/173353.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2 FHD" tvg-logo="http://dns.jserverstv.ml:80/images/60a8df3b2d0e52148a208abc0c58773a.png" group-title="CANAIS | HBO",HBO 2 FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173333.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="http://dns.jserverstv.ml:80/images/60a8df3b2d0e52148a208abc0c58773a.png" group-title="CANAIS | HBO",HBO 2 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173334.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO FAMILY" tvg-logo="http://dns.jserverstv.ml:80/images/f86a91f5aba965c32a295ebe7a1f43a9.png" group-title="CANAIS | HBO",HBO FAMILY
-http://dns.fastuhd.online/live/minhatv/800900500/173335.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO FAMILY" tvg-logo="http://dns.jserverstv.ml:80/images/f86a91f5aba965c32a295ebe7a1f43a9.png" group-title="CANAIS | HBO",HBO FAMILY
-http://dns.fastuhd.online/live/minhatv/800900500/173336.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO FAMILY HD" tvg-logo="http://dns.jserverstv.ml:80/images/f86a91f5aba965c32a295ebe7a1f43a9.png" group-title="CANAIS | HBO",HBO FAMILY HD
-http://dns.fastuhd.online/live/minhatv/800900500/173337.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="http://dns.jserverstv.ml:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="CANAIS | HBO",HBO HD
-http://dns.fastuhd.online/live/minhatv/800900500/173338.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO MUNDI" tvg-logo="http://dns.jserverstv.ml:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" group-title="CANAIS | HBO",HBO MUNDI
-http://dns.fastuhd.online/live/minhatv/800900500/173339.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO MUNDI HD" tvg-logo="http://dns.jserverstv.ml:80/images/c25d798e27b54b4f7eb9ba4b01538b1e.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://dns.fastuhd.online/live/minhatv/800900500/173340.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO PLUS" tvg-logo="http://dns.jserverstv.ml:80/images/ba23c63eb5f175a80553cffdb0a39659.png" group-title="CANAIS | HBO",HBO PLUS
-http://dns.fastuhd.online/live/minhatv/800900500/173341.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO PLUS" tvg-logo="http://dns.jserverstv.ml:80/images/ba23c63eb5f175a80553cffdb0a39659.png" group-title="CANAIS | HBO",HBO PLUS
-http://dns.fastuhd.online/live/minhatv/800900500/173342.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO PLUS" tvg-logo="http://dns.jserverstv.ml:80/images/ba23c63eb5f175a80553cffdb0a39659.png" group-title="CANAIS | HBO",HBO PLUS
-http://dns.fastuhd.online/live/minhatv/800900500/173343.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Plus HD" tvg-logo="http://dns.jserverstv.ml:80/images/ba23c63eb5f175a80553cffdb0a39659.png" group-title="CANAIS | HBO",HBO Plus HD
-http://dns.fastuhd.online/live/minhatv/800900500/173344.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO POP" tvg-logo="http://dns.jserverstv.ml:80/images/53f758a55138eb58adedf440c681e94f.png" group-title="CANAIS | HBO",HBO POP
-http://dns.fastuhd.online/live/minhatv/800900500/173345.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO POP HD" tvg-logo="http://dns.jserverstv.ml:80/images/53f758a55138eb58adedf440c681e94f.png" group-title="CANAIS | HBO",HBO POP HD
-http://dns.fastuhd.online/live/minhatv/800900500/173346.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE" tvg-logo="http://dns.jserverstv.ml:80/images/f6eac280b1b6209a010df92f345562c7.png" group-title="CANAIS | HBO",HBO SIGNATURE
-http://dns.fastuhd.online/live/minhatv/800900500/173347.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE" tvg-logo="http://dns.jserverstv.ml:80/images/f6eac280b1b6209a010df92f345562c7.png" group-title="CANAIS | HBO",HBO SIGNATURE
-http://dns.fastuhd.online/live/minhatv/800900500/173348.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE" tvg-logo="http://dns.jserverstv.ml:80/images/f6eac280b1b6209a010df92f345562c7.png" group-title="CANAIS | HBO",HBO SIGNATURE
-http://dns.fastuhd.online/live/minhatv/800900500/173349.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO SIGNATURE HD" tvg-logo="http://dns.jserverstv.ml:80/images/f6eac280b1b6209a010df92f345562c7.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://dns.fastuhd.online/live/minhatv/800900500/173350.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO XTREME" tvg-logo="http://dns.jserverstv.ml:80/images/dfd8cd7272155a55a723969fa4c3c863.png" group-title="CANAIS | HBO",HBO XTREME
-http://dns.fastuhd.online/live/minhatv/800900500/173351.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO XTREME HD" tvg-logo="http://dns.jserverstv.ml:80/images/dfd8cd7272155a55a723969fa4c3c863.png" group-title="CANAIS | HBO",HBO XTREME HD
-http://dns.fastuhd.online/live/minhatv/800900500/173352.m3u8
 
------------------- CINE SKY
+--------------------------SERIES
 
-#EXTINF:-1 type="stream" tvg-id="CINE 01" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 01
-http://dns.fastuhd.online/live/minhatv/800900500/173846.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 02" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 02
-http://dns.fastuhd.online/live/minhatv/800900500/173847.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 03" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 03
-http://dns.fastuhd.online/live/minhatv/800900500/173848.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 04" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 04
-http://dns.fastuhd.online/live/minhatv/800900500/173849.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 05" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 05
-http://dns.fastuhd.online/live/minhatv/800900500/173850.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 06" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 06
-http://dns.fastuhd.online/live/minhatv/800900500/173851.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 07" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 07
-http://dns.fastuhd.online/live/minhatv/800900500/173852.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 08" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 08
-http://dns.fastuhd.online/live/minhatv/800900500/173853.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 09" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 09
-http://dns.fastuhd.online/live/minhatv/800900500/173854.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE 10" tvg-logo="http://dns.jserverstv.ml:80/images/7939c22a573f0fde55b89c9963c51404.png" group-title="CANAIS | CINE SKY",CINE 10
-http://dns.fastuhd.online/live/minhatv/800900500/173855.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE PIPOCA 01" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 01
-http://dns.fastuhd.online/live/minhatv/800900500/175459.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE PIPOCA 02" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 02
-http://dns.fastuhd.online/live/minhatv/800900500/175460.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE PIPOCA 03" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 03
-http://dns.fastuhd.online/live/minhatv/800900500/175461.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE PIPOCA 04" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 04
-http://dns.fastuhd.online/live/minhatv/800900500/175462.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE PIPOCA 05" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 05
-http://dns.fastuhd.online/live/minhatv/800900500/175463.m3u8
-#EXTINF:-1 type="stream" tvg-id="CLASSIQUE FILMES" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",CLASSIQUE FILMES
-http://dns.fastuhd.online/live/minhatv/800900500/175474.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 01" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 01
-http://dns.fastuhd.online/live/minhatv/800900500/173856.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 01" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 01
-http://dns.fastuhd.online/live/minhatv/800900500/175464.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 02" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 02
-http://dns.fastuhd.online/live/minhatv/800900500/173857.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 02" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 02
-http://dns.fastuhd.online/live/minhatv/800900500/175465.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 03" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 03
-http://dns.fastuhd.online/live/minhatv/800900500/173858.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 03" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 03
-http://dns.fastuhd.online/live/minhatv/800900500/175466.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 04" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 04
-http://dns.fastuhd.online/live/minhatv/800900500/173859.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 04" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 04
-http://dns.fastuhd.online/live/minhatv/800900500/175467.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 05" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 05
-http://dns.fastuhd.online/live/minhatv/800900500/173860.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 05" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 05
-http://dns.fastuhd.online/live/minhatv/800900500/175468.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 06" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 06
-http://dns.fastuhd.online/live/minhatv/800900500/173861.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 06" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 06
-http://dns.fastuhd.online/live/minhatv/800900500/175469.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 07" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 07
-http://dns.fastuhd.online/live/minhatv/800900500/175470.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 08" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 08
-http://dns.fastuhd.online/live/minhatv/800900500/175471.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 09" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 09
-http://dns.fastuhd.online/live/minhatv/800900500/175472.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINE SKY 10" tvg-logo="http://dns.jserverstv.ml:80/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="CANAIS | CINE SKY",CINE SKY 10
-http://dns.fastuhd.online/live/minhatv/800900500/173862.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cine SKY 10" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS | CINE SKY",Cine SKY 10
-http://dns.fastuhd.online/live/minhatv/800900500/175473.m3u8
-#EXTINF:-1 type="stream" tvg-id="Gospel Movie" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",Gospel Movie
-http://dns.fastuhd.online/live/minhatv/800900500/175475.m3u8
-#EXTINF:-1 type="stream" tvg-id="KRÓNOS MOVIE" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",KRÓNOS MOVIE
-http://dns.fastuhd.online/live/minhatv/800900500/175476.m3u8
-#EXTINF:-1 type="stream" tvg-id="NOVA CINEMA" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",NOVA CINEMA
-http://dns.fastuhd.online/live/minhatv/800900500/175477.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Séries" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",TV Séries
-http://dns.fastuhd.online/live/minhatv/800900500/175478.m3u8
-#EXTINF:-1 type="stream" tvg-id="Vintage MOVIES" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",Vintage MOVIES
-http://dns.fastuhd.online/live/minhatv/800900500/175479.m3u8
-
------------------FILMES E SÉRIES
-
-#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS | FILMES E SÉRIES",A&E
-http://dns.fastuhd.online/live/minhatv/800900500/173108.m3u8
-#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
-http://dns.fastuhd.online/live/minhatv/800900500/173109.m3u8
-#EXTINF:-1 type="stream" tvg-id="A&E SD" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD
-http://dns.fastuhd.online/live/minhatv/800900500/173110.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | FILMES E SÉRIES",AMC
-http://dns.fastuhd.online/live/minhatv/800900500/173111.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-http://dns.fastuhd.online/live/minhatv/800900500/173112.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC SD" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
-http://dns.fastuhd.online/live/minhatv/800900500/173113.m3u8
-#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="http://dns.jserverstv.ml:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
-http://dns.fastuhd.online/live/minhatv/800900500/173114.m3u8
-#EXTINF:-1 type="stream" tvg-id="AXN SD" tvg-logo="http://dns.jserverstv.ml:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD
-http://dns.fastuhd.online/live/minhatv/800900500/173115.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINEMAX" tvg-logo="http://dns.jserverstv.ml:80/images/ea561c74560f38d405a67622947bae32.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX
-http://dns.fastuhd.online/live/minhatv/800900500/173116.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cinemax HD" tvg-logo="http://dns.jserverstv.ml:80/images/ea561c74560f38d405a67622947bae32.png" group-title="CANAIS | FILMES E SÉRIES",Cinemax HD
-http://dns.fastuhd.online/live/minhatv/800900500/173117.m3u8
-#EXTINF:-1 type="stream" tvg-id="CINEMAX SD" tvg-logo="http://dns.jserverstv.ml:80/images/ea561c74560f38d405a67622947bae32.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
-http://dns.fastuhd.online/live/minhatv/800900500/173118.m3u8
-#EXTINF:-1 type="stream" tvg-id="FILM & ART HD" tvg-logo="http://dns.jserverstv.ml:80/images/4ac380d92a6949d7b81a0aea525a05f6.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ART HD
-http://dns.fastuhd.online/live/minhatv/800900500/173119.m3u8
-#EXTINF:-1 type="stream" tvg-id="FX HD" tvg-logo="http://dns.jserverstv.ml:80/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="CANAIS | FILMES E SÉRIES",FX HD
-http://dns.fastuhd.online/live/minhatv/800900500/173128.m3u8
-#EXTINF:-1 type="stream" tvg-id="FX SD" tvg-logo="http://dns.jserverstv.ml:80/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="CANAIS | FILMES E SÉRIES",FX SD
-http://dns.fastuhd.online/live/minhatv/800900500/173129.m3u8
-#EXTINF:-1 type="stream" tvg-id="MEGAPIX" tvg-logo="http://dns.jserverstv.ml:80/images/51286eb8f0e3e46f23f4808b95ba980e.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
-http://dns.fastuhd.online/live/minhatv/800900500/173130.m3u8
-#EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="http://dns.jserverstv.ml:80/images/51286eb8f0e3e46f23f4808b95ba980e.png" group-title="CANAIS | FILMES E SÉRIES",Megapix HD
-http://dns.fastuhd.online/live/minhatv/800900500/173131.m3u8
-#EXTINF:-1 type="stream" tvg-id="MEGAPIX SD" tvg-logo="http://dns.jserverstv.ml:80/images/51286eb8f0e3e46f23f4808b95ba980e.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD
-http://dns.fastuhd.online/live/minhatv/800900500/173132.m3u8
-#EXTINF:-1 type="stream" tvg-id="PARAMOUNT HD" tvg-logo="http://dns.jserverstv.ml:80/images/3e48cca712d5060410a85a4135606ac8.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD
-http://dns.fastuhd.online/live/minhatv/800900500/173133.m3u8
-#EXTINF:-1 type="stream" tvg-id="PARAMOUNT SD" tvg-logo="http://dns.jserverstv.ml:80/images/3e48cca712d5060410a85a4135606ac8.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT SD
-http://dns.fastuhd.online/live/minhatv/800900500/173134.m3u8
-#EXTINF:-1 type="stream" tvg-id="SPACE FHD" tvg-logo="http://dns.jserverstv.ml:80/images/4df8a0d021b4e596a81177d4f78d5f65.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173135.m3u8
-#EXTINF:-1 type="stream" tvg-id="SPACE HD" tvg-logo="http://dns.jserverstv.ml:80/images/4df8a0d021b4e596a81177d4f78d5f65.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
-http://dns.fastuhd.online/live/minhatv/800900500/173136.m3u8
-#EXTINF:-1 type="stream" tvg-id="SPACE SD" tvg-logo="http://dns.jserverstv.ml:80/images/4df8a0d021b4e596a81177d4f78d5f65.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
-http://dns.fastuhd.online/live/minhatv/800900500/173137.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR HD" tvg-logo="http://dns.jserverstv.ml:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="CANAIS | FILMES E SÉRIES",STAR HD
-http://dns.fastuhd.online/live/minhatv/800900500/173120.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR LIFE HD" tvg-logo="http://dns.jserverstv.ml:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE HD
-http://dns.fastuhd.online/live/minhatv/800900500/173121.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR LIFE SD" tvg-logo="http://dns.jserverstv.ml:80/images/4b2e3e73c605a033172fb82b08928d0c.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE SD
-http://dns.fastuhd.online/live/minhatv/800900500/173122.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR PREMIUM 1" tvg-logo="http://dns.jserverstv.ml:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR PREMIUM 1
-http://dns.fastuhd.online/live/minhatv/800900500/173123.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR PREMIUM 1" tvg-logo="http://dns.jserverstv.ml:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR PREMIUM 1
-http://dns.fastuhd.online/live/minhatv/800900500/173124.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR Premium 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR Premium 1 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173538.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR PREMIUM 2" tvg-logo="http://dns.jserverstv.ml:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR PREMIUM 2
-http://dns.fastuhd.online/live/minhatv/800900500/173125.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR PREMIUM 2" tvg-logo="http://dns.jserverstv.ml:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR PREMIUM 2
-http://dns.fastuhd.online/live/minhatv/800900500/173126.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR Premium 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/2dd486ae85c20e2318944230f46e962a.png" group-title="CANAIS | FILMES E SÉRIES",STAR Premium 2 HD
-http://dns.fastuhd.online/live/minhatv/800900500/173539.m3u8
-#EXTINF:-1 type="stream" tvg-id="STAR SD" tvg-logo="http://dns.jserverstv.ml:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="CANAIS | FILMES E SÉRIES",STAR SD
-http://dns.fastuhd.online/live/minhatv/800900500/173127.m3u8
-#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL" tvg-logo="http://dns.jserverstv.ml:80/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL
-http://dns.fastuhd.online/live/minhatv/800900500/173138.m3u8
-#EXTINF:-1 type="stream" tvg-id="Studio Universal HD" tvg-logo="http://dns.jserverstv.ml:80/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="CANAIS | FILMES E SÉRIES",Studio Universal HD
-http://dns.fastuhd.online/live/minhatv/800900500/173139.m3u8
-#EXTINF:-1 type="stream" tvg-id="STUDIO UNIVERSAL SD" tvg-logo="http://dns.jserverstv.ml:80/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD
-http://dns.fastuhd.online/live/minhatv/800900500/173140.m3u8
-#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="http://dns.jserverstv.ml:80/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="CANAIS | FILMES E SÉRIES",TCM HD
-http://dns.fastuhd.online/live/minhatv/800900500/173141.m3u8
-#EXTINF:-1 type="stream" tvg-id="TCM SD" tvg-logo="http://dns.jserverstv.ml:80/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="CANAIS | FILMES E SÉRIES",TCM SD
-http://dns.fastuhd.online/live/minhatv/800900500/173142.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="http://dns.jslinkdns.xyz:80/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="CANAIS | FILMES E SÉRIES",TNT
-http://dns.fastuhd.online/live/minhatv/800900500/173143.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="CANAIS | FILMES E SÉRIES",TNT HD
-http://dns.fastuhd.online/live/minhatv/800900500/173144.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="CANAIS | FILMES E SÉRIES",TNT SD
-http://dns.fastuhd.online/live/minhatv/800900500/173145.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT SERIES" tvg-logo="http://dns.jserverstv.ml:80/images/83325be20ecb33376512171493c0d255.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES
-http://dns.fastuhd.online/live/minhatv/800900500/173146.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT Series HD" tvg-logo="http://dns.jserverstv.ml:80/images/83325be20ecb33376512171493c0d255.png" group-title="CANAIS | FILMES E SÉRIES",TNT Series HD
-http://dns.fastuhd.online/live/minhatv/800900500/173147.m3u8
-#EXTINF:-1 type="stream" tvg-id="Universal Channel TV" tvg-logo="http://dns.jserverstv.ml:80/images/2ff1f8ba1a182db36df0ce0d00b47622.png" group-title="CANAIS | FILMES E SÉRIES",Universal Channel TV
-http://dns.fastuhd.online/live/minhatv/800900500/173148.m3u8
-#EXTINF:-1 type="stream" tvg-id="UNIVERSAL TV" tvg-logo="http://dns.jserverstv.ml:80/images/2ff1f8ba1a182db36df0ce0d00b47622.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV
-http://dns.fastuhd.online/live/minhatv/800900500/173149.m3u8
-#EXTINF:-1 type="stream" tvg-id="Universal TV HD" tvg-logo="http://dns.jserverstv.ml:80/images/2ff1f8ba1a182db36df0ce0d00b47622.png" group-title="CANAIS | FILMES E SÉRIES",Universal TV HD
-http://dns.fastuhd.online/live/minhatv/800900500/173150.m3u8
-#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL" tvg-logo="http://dns.jserverstv.ml:80/images/0690b3933761dd9b6743358044c71098.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL
-http://dns.fastuhd.online/live/minhatv/800900500/173151.m3u8
-#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL FHD" tvg-logo="http://dns.jserverstv.ml:80/images/0690b3933761dd9b6743358044c71098.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
-http://dns.fastuhd.online/live/minhatv/800900500/173152.m3u8
-#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="http://dns.jserverstv.ml:80/images/0690b3933761dd9b6743358044c71098.png" group-title="CANAIS | FILMES E SÉRIES",Warner Channel HD
-http://dns.fastuhd.online/live/minhatv/800900500/173153.m3u8
-#EXTINF:-1 type="stream" tvg-id="WARNER CHANNEL SD" tvg-logo="http://dns.jserverstv.ml:80/images/0690b3933761dd9b6743358044c71098.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL SD
-http://dns.fastuhd.online/live/minhatv/800900500/173154.m3u8
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/rrwBZuj.png",SERIES
+#EXTBG: #11609e
+http://painel.fastuhdtv.xyz/ssiptv/get/gilvana02/800900500/list_series/-1/

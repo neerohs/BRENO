@@ -1,0 +1,77 @@
+#EXTM3U size="Medium"
+---------------SERIES
+
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_series/-1/
+
+--------------FILMES
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES | FICÇAO CIENTIFICA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/27/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | TERROR
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/145/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LANCAMENTO 2019
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/152/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LANCAMENTOS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/140/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | 4K
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/151/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FAROESTE
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/150/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | CLASSICO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/149/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | INFANTIL
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/148/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | AÇAO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/147/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | DOCUMENTARIO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/146/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | COMEDIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/144/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | DRAMA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/143/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | MARVEL
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/158/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | GUERRA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/142/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | BIBLICO
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/139/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | ROMANCE
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/138/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | CINEMA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/135/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | COLETÂNEA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/153/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | ADULTOS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/173/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | NACIONAIS
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/175/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FAMILIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/182/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | FANTASIA
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/183/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES | LEGENDADOS 
+#EXTBG: #11609e
+http://painel.blackouthd.xyz/ssiptv/get/kadja005/800900500/list_movies/184/
